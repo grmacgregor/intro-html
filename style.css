@@ -1,0 +1,16 @@
+header {
+    color: orangered;
+}
+
+.fantastic {
+    font-family: fantasy;
+    font-size: 36px;
+}
+
+.awesome.fantastic {
+    color: peachpuff;
+}
+
+p em {
+    color: burlywood;
+}
